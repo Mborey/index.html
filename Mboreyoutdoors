@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mborey Outdoors Guide Service</title>
+<style>
+body{font-family:Arial;background:#0f2a33;color:white;text-align:center;margin:0}
+header{background:#0a1d23;padding:40px}
+nav{background:#123843;padding:15px}
+nav a{color:white;margin:15px;text-decoration:none;font-size:18px}
+section{padding:40px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Mborey Outdoors Guide Service</h1>
+<p>Bass • Pike • Walleye • Trout</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#videos">YouTube</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About</h2>
+<p>Welcome to Mborey Outdoors Guide Service. Follow my fishing adventures and book trips on the water.</p>
+</section>
+
+<section id="videos">
+<h2>YouTube Channel</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=Mboreyoutdoors"></iframe>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: your@email.com</p>
+</section>
+
+</body>
+</html>
